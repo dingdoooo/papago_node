@@ -1,0 +1,22 @@
+{
+  "name": "05.papago_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node detectLang.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "eslint-config-naver": "^2.1.0",
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "prettier": "2.5.1"
+  }
+}
